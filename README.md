@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheLordKIRRA
 - 👀 I’m interested in Science, technology, and Mathematics.
-- 🌱 I’m currently learning Computer Networking and Web Development.
+- 🌱 I recently graduated with my bachelors in Computer Science.
 - 💞️ I’m looking to collaborate on Software development.
 - 📫 How to reach me: aeddy146@gmail.com and (909)446-2729
 - 😄 Pronouns: He/Him
