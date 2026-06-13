@@ -3,7 +3,7 @@
 - 🌱 I recently graduated with my bachelors in Computer Science.
 - 💞️ I’m looking to collaborate on Software development.
 - 📫 How to reach me: aeddy146@gmail.com and (909)446-2729
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/They
 - ⚡ Fun fact: I am great at learning new things and absorb knowledge easily.
 
 <!---
